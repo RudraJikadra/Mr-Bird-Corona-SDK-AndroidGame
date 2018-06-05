@@ -2,6 +2,8 @@
 This game idea is the reason why I started game development.
 A simple to understand but difficult to master arcade game.
 All the code files of lua language with icon images are provided along with the apk file.
+It is not another clone of Flappy Bird but a different approach of that kind of arcade game.
+The tiles are Coming from above and we have to dodge them and increase the score by making the bird move left or right.
 
 ### features
 Easy to understand lua language.
