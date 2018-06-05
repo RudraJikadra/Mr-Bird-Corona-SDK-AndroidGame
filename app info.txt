@@ -1,0 +1,33 @@
+Mr Bird is a new Challenging Endless Arcade game
+Show Your Skills,make High Scores!
+It is a simple side scrolling game
+
+Easy to play but very Hard to master
+
+Try it once and you will play forever !
+Fun to play !
+
+How to Play:
+>Your Screen is divided into two halfs vertically
+>If you tap on the right side of your phone then the bird will get a force upwards and to the right, the same goes for the left side
+>Then after tapping the right side, if you tap on the (opposite side)left side of your phone then the bird will get a force upward and to the left which will Nullify the right side force so that the bird will go up again
+
+
+Caution: Don't tap twice on one side then the bird will get a double force on that side which will end the game
+
+Score as many points as you can
+Pass Mr Bird through as many pipes as you can
+
+Mr Bird is a new fun game to play
+
+It Flaps like flappy bird 
+It jumps like a bouncy ball
+It's speed is like God Speed (Flash)
+It's shape is like a funny bird
+And moreover
+Its Mr Bird
+
+Must try once!
+Download now!
+
+Created by Rudra Jikadra
